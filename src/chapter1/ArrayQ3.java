@@ -1,3 +1,5 @@
+package chapter1;
+
 public class ArrayQ3 {
     public static void main(String[] args) {
         boolean[][] board = {

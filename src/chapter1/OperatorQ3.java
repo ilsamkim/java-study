@@ -1,3 +1,5 @@
+package chapter1;
+
 import java.util.Scanner;
 public class OperatorQ3 {
     public static void main(String[] args) {

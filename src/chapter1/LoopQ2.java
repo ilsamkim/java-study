@@ -1,3 +1,5 @@
+package chapter1;
+
 public class LoopQ2 {
     public static void main(String[] args) {
         for (int i = 2; i <= 9; i++) {

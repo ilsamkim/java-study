@@ -1,3 +1,5 @@
+package chapter1;
+
 public class ArrayQ2 {
     public static void main(String[] args) {
         int[] i = {2, 5, 8};
